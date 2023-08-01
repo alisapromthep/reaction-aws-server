@@ -1,0 +1,50 @@
+[
+    {
+    "name": "difficulty-breathing",
+    "img_file": "https://reaction-server.up.railway.app/icons/symptoms/difficulty-breathing.png"
+    },
+    {
+    "name": "dizzy",
+    "img_file": "https://reaction-server.up.railway.app/icons/symptoms/dizzy.png"
+    },
+    {
+    "name": "cough",
+    "img_file": "https://reaction-server.up.railway.app/icons/symptoms/cough.png"
+    },
+    {
+    "name": "swollen-eye",
+    "img_file": "https://reaction-server.up.railway.app/icons/symptoms/swollen-eye.png"
+    },
+    {
+    "name": "itchy",
+    "img_file": "https://reaction-server.up.railway.app/icons/symptoms/itchy.png"
+    },
+    {
+    "name": "swollen-mouth",
+    "img_file": " https://reaction-server.up.railway.app/icons/symptoms/swollen-mouth.png"
+    },
+    {
+    "name": "nausea",
+    "img_file": "https://reaction-server.up.railway.app/icons/symptoms/nausea.png"
+  },
+  {
+    "name": "hay-fever",
+    "img_file": "https://reaction-server.up.railway.app/icons/symptoms/hay-fever.png"
+    },
+    {
+        "name": "vomit",
+        "img_file": "https://reaction-server.up.railway.app/icons/symptoms/vomit.png"
+    },
+    {
+        "name": "rash",
+        "img_file": "https://reaction-server.up.railway.app/icons/symptoms/rash.png"
+    },
+    {
+        "name": "diarrhea",
+        "img_file": "https://reaction-server.up.railway.app/icons/symptoms/diarrhea.png"
+    },
+    {
+        "name": "stomach-cramp",
+        "img_file": "https://reaction-server.up.railway.app/icons/symptoms/stomach-cramp.png"
+    }
+]
