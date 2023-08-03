@@ -26,6 +26,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
+    "claudia": "^5.14.1",
     "nodemon": "^2.0.16"
   }
 }
